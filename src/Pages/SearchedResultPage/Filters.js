@@ -180,7 +180,7 @@ const Filters = ({handleFilterChange, removeSelectedFilter, searchParams, counti
         </Accordion.Item>
       </Accordion>
 
-      <Accordion className="filter-accordion" data-bs-theme="dark">
+      <Accordion className="filter-accordion">
         <Accordion.Item>
           <Accordion.Header>Kategori</Accordion.Header>
           <Accordion.Body>
